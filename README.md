@@ -3,7 +3,7 @@ Desafio de Lógica de Programação feito para o processo seletivo da empresa Mo
 
 Código feito por João Marcos Barreto de Sá Pereira.
 
-### O Desafio está 100% completo.
+### O Desafio está 80% completo.
 
 
 # Enunciado
